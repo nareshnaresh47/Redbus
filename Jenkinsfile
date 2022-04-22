@@ -4,7 +4,7 @@ pipeline {
 	  tools
     {
 
-       maven "ANt"
+       maven "New Changes"
        maven "mavennnnnn"
 
     }
