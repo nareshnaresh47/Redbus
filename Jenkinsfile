@@ -3,7 +3,7 @@ pipeline {
 	
 	  tools
     {
-       maven "maven"
+       maven "mavennnnnn"
     }
  stages {
       stage('checkout') {
