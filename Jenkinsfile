@@ -3,7 +3,7 @@ pipeline {
 	
 	  tools
     {
-       maven "LLLLLL"
+       maven "Updated New CHanges"
        maven "mavennnnnn"
     }
  stages {
