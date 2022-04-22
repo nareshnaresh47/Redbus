@@ -3,7 +3,11 @@ pipeline {
 	
 	  tools
     {
+<<<<<<< HEAD
        maven "ANt"
+=======
+       maven "mavennnnnn"
+>>>>>>> f032c2e5b8e8e7ef3a72bee7304cd54c5045db67
     }
  stages {
       stage('checkout') {
