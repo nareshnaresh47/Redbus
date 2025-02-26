@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM Latest:latest
 
 LABEL maintainer="Nidhi Gupta"
 
