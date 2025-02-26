@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM vamsi:latest
 
 LABEL maintainer="Nidhi Gupta"
 
